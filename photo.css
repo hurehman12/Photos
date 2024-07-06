@@ -1,0 +1,18 @@
+img{width: 30%;
+margin:calc(10%/6);
+}
+
+img:hover {
+    transform: scale(1.1);
+    
+    transition:0.5s;
+}
+
+nav{
+    text-transform: uppercase;
+    border-bottom: 2px solid #f1f1f1;
+    width: 30%;
+    margin-left: calc(10%/6);
+    padding: 20px 0px;
+}
+nav{font-family: 'Roboto', sans-serif;}
